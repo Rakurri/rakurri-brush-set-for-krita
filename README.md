@@ -3,9 +3,9 @@ Sharing my brushes for Krita!
 
 Thank you for downloading my brush set! I hope you will enjoy it! :)
 
-IMPORTANT THINGS TO KNOW ABOUT THE BRUSH SET
+IMPORTANT THINGS TO KNOW ABOUT THE BRUSH SET:
 
-HOW TO INSTALL
+HOW TO INSTALL:
 1. Go to “Settings”
 2. Press “Manage Resources”
 3. Press “Import Bundles”
@@ -13,7 +13,7 @@ HOW TO INSTALL
 5. Move the “Rakurri_Brushset_V1.0” from “Inactive Bundles” to Active Bundles! (And make sure Krita’s “Krita_4_Default_Resources” is also in the left pane!)
 6. Press “OK”!
 
-TILT SUPPORT/IF BRUSHES DON'T WORK AS IN THE VIDEO
+TILT SUPPORT/IF BRUSHES DON'T WORK AS IN THE VIDEO:
 Most of my brushes are based on tilt support, because that is a feature I really enjoy using!
 The negative side of this, is that they won’t work well on some tablets and screen devices that does not support it!
 But there is a way to make them work! Here is a quick tutorial on how to convert the brushes to work decent without having tilt support:
