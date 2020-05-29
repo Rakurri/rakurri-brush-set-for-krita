@@ -3,6 +3,9 @@ Sharing my brushes for Krita!
 
 Thank you for downloading my brush set! I hope you will enjoy it! :)
 
+Here is a video showing off some of the brushes!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/89qJ-1cTW7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 IMPORTANT THINGS TO KNOW ABOUT THE BRUSH SET:
 
 HOW TO INSTALL:
