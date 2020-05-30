@@ -1,12 +1,11 @@
 # rakurri-brush-set-for-krita
 Sharing my brushes for Krita!
 
-Thank you for downloading my brush set! I hope you will enjoy it! :)
+I hope you'll enjoy them! :)
+Feel free to use them in your own artworks! No need to credit me!
 
 Here is a link to a video showing off some of the brushes!
 https://youtu.be/89qJ-1cTW7g
-
-IMPORTANT THINGS TO KNOW ABOUT THE BRUSH SET:
 
 HOW TO INSTALL:
 1. Go to “Settings”
