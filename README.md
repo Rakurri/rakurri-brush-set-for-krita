@@ -1,21 +1,29 @@
 # rakurri-brush-set-for-krita
 Sharing my brushes for Krita!
+Keep in mind that the V1.1 version is an addon to the original (V1.0), make sure to install both!
 
-I hope you'll enjoy them! :)
-Feel free to use them in your own artworks! No need to credit me!
+I hope you'll enjoy the brush pack! :)
+Feel free to use the brushes in your own artworks! No need to credit me!
 
-Here is a link to a video showing off some of the brushes!
+Here is a video preview of V1.0:
 https://youtu.be/89qJ-1cTW7g
 
+Here is a video preview of V1.1:
+_
+
+
 HOW TO INSTALL:
+
 1. Go to “Settings”
 2. Press “Manage Resources”
 3. Press “Import Bundles”
-4. Select the. bundle file and open it!
-5. Move the “Rakurri_Brushset_V1.0” from “Inactive Bundles” to Active Bundles! (And make sure Krita’s “Krita_4_Default_Resources” is also in the left pane!)
+4. Select the. bundle file and open them!
+5. Move “Rakurri_Brushset_V1.0” and “Rakurri_Brushset_V1.1”  to Active Bundles! (And make sure Krita’s “Krita_4_Default_Resources” is also in the left pane!)
 6. Press “OK”!
 
+
 TILT SUPPORT/IF BRUSHES DON'T WORK AS IN THE VIDEO:
+
 Most of my brushes are based on tilt support, because that is a feature I really enjoy using!
 The negative side of this, is that they won’t work well on some tablets and screen devices that does not support it!
 But there is a way to make them work! Here is a quick tutorial on how to convert the brushes to work decent without having tilt support:
