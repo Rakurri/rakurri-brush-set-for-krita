@@ -9,7 +9,7 @@ Here is a video preview of V1.0:
 https://youtu.be/89qJ-1cTW7g
 
 Here is a video preview of V1.1:
-_
+https://youtu.be/LjvIcK6fr0I
 
 
 HOW TO INSTALL:
