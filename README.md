@@ -14,6 +14,10 @@ https://youtu.be/LjvIcK6fr0I
 
 HOW TO INSTALL:
 
+From Github:
+1. Download the .bundle files that you want, the brush tips and patterns is not needed for the installation 
+
+Installation in Krita:
 1. Go to “Settings”
 2. Press “Manage Resources”
 3. Press “Import Bundles”
