@@ -15,7 +15,7 @@ https://youtu.be/LjvIcK6fr0I
 HOW TO INSTALL:
 
 From Github:
-1. Download the .bundle files that you want, the brush tips and patterns is not needed for the installation 
+1. Download "Rakurri_Brush_Set_V.1.0.bundle" and "Rakurri_Brush_Set_V1.1.bundle", the brush tips and patterns is not needed for the installation!
 
 Installation in Krita:
 1. Go to “Settings”
