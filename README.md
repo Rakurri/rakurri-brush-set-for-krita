@@ -1,6 +1,6 @@
 # rakurri-brush-set-for-krita
 Sharing my brushes for Krita!
-Keep in mind that the V1.1 version is an addon to the original (V1.0), make sure to install both!
+MAKE SURE TO INSTALL BOTH V1.0 AND V1.1! V1.1 IS JUST AN ADDON!
 
 I hope you'll enjoy the brush pack! :)
 Feel free to use the brushes in your own artworks! No need to credit me!
