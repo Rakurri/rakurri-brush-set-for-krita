@@ -1,5 +1,7 @@
 # Rakurri Brush Set for Krita
 
+![Rakurri Brush Set Banner](https://i.imgur.com/SLbbOTK.png)
+
 **MAKE SURE TO INSTALL BOTH V1.0 AND V1.1! V1.1 IS JUST AN ADDON!**
 
 Feel free to use the brushes in your own artworks! No need to credit me!
