@@ -19,7 +19,7 @@ Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/rel
 
 **Gumroad:**
 1. Go to this website: https://gum.co/rakurribrushes1 
-2. Cick the "I want this!"-button!
+2. Click the "I want this!"-button!
 
 **Installation in Krita:**
 1. Go to “Settings”
