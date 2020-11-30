@@ -11,7 +11,7 @@ I hope you'll enjoy the brush pack! :)
 
 ***
 
-**How to download and install**
+# **How to download and install**
 
 **Github:**
 1. Download "Rakurri_Brush_Set_V.1.0.bundle" and "Rakurri_Brush_Set_V1.1.bundle", the brush tips and patterns is not needed for the installation!
@@ -31,7 +31,7 @@ Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/rel
 
 ***
 
-**Tilt support/If the brushes do not work ad in the videos:**
+# **Tilt support/If the brushes do not work ad in the videos:**
 
 Most of my brushes are based on tilt support, because that is a feature I really enjoy using!
 The negative side of this, is that they won’t work well on some tablets and screen devices that does not support it!
