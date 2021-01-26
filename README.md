@@ -33,7 +33,7 @@ Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/rel
 
 ***
 
-# **Tilt support/If the brushes do not work as showcased the videos:**
+# **Tilt support/If the brushes do not work as showcased in the videos:**
 
 Most of my brushes are based on tilt support, because that is a feature I really enjoy using!
 The negative side of this, is that they won’t work well on some tablets and screen devices that does not support it!
