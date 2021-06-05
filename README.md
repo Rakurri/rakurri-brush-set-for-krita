@@ -15,7 +15,7 @@ I hope you'll enjoy the brush pack! :)
 
 # **How to download and install**
 
-**Github:**
+**GitHub:**
 1. Download "Rakurri_Brush_Set_V.1.0.bundle" and "Rakurri_Brush_Set_V1.1.bundle", the brush tips and patterns is not needed for the installation!
 Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/releases/tag/V1.1
 
@@ -35,11 +35,31 @@ Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/rel
 
 # **Tilt support/If the brushes do not work as showcased in the videos:**
 
-Most of my brushes are based on tilt support, because that is a feature I really enjoy using!
-The negative side of this, is that they won’t work well on some tablets and screen devices that does not support it!
+Most of my brushes are based on tilt support because that is a feature I really enjoy using!
+The negative side of this, is that they will not work well on some tablets and screen devices that does not support it!
 But there is a way to make them work! Here is a quick tutorial on how to convert the brushes to work decent without having tilt support:
  
-First go to the “Edit brush settings” icon in the top bar or press F5, then enter the “Rotation” settings
+First go to the “Edit brush settings” icon in the top bar or press F5, then enter the “Rotation” settings.
  
 Turn on “Drawing angle”, and then turn off “Tilt direction”!
 If you wish, you can click “Overwrite Brush” to make these changes permanent!
+
+***
+
+# **How to download experimental and alpha brushes:**
+
+**1.** Put the contents of "V2.0 alpha brush presets" and/or "V2.0 experimental WIP brush presets" into Krita's "paintoppresets" folder.
+
+(Located here on Windows: "C:\Users\username\AppData\Roaming\krita\paintoppresets". You could alternatively find it via Krita here: Settings -> Manage Resources -> Open Resource Folder)
+
+**2.** To make sure the experimental and alpha brushes have the correct brush tips and patterns, we need to put some more files from the GitHub into your local Krita folder:
+
+Put the contents of "brush tips" into Krita's "brushes" folder 
+
+(Located here on Windows: C:\Users\username\AppData\Roaming\krita\brushes)
+
+Put the contents of "patterns" into Krita's "patterns" folder 
+
+(Located here on Windows: C:\Users\username\AppData\Roaming\krita\patterns)
+
+Have in mind that a few of the brushes only works on Krita 5 (which is currently in alpha)
