@@ -15,13 +15,13 @@ I hope you'll enjoy the brush pack! :)
 
 # **How to download and install**
 
-**GitHub:**
-1. Download "Rakurri_Brush_Set_V.1.0.bundle" and "Rakurri_Brush_Set_V1.1.bundle", the brush tips and patterns is not needed for the installation!
-Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/releases/tag/V1.1
-
 **Gumroad:**
 1. Go to this website: https://gum.co/rakurribrushes1 
 2. Click the "I want this!"-button!
+
+**GitHub:**
+1. Download "Rakurri_Brush_Set_V.1.0.bundle" and "Rakurri_Brush_Set_V1.1.bundle", the brush tips and patterns is not needed for the installation!
+Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/releases/tag/V1.1
 
 **Installation in Krita:**
 1. Go to “Settings”
