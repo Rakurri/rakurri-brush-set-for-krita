@@ -57,6 +57,7 @@ If you wish, you can click “Overwrite Brush” to make these changes permanent
 Put the contents of "brush tips" into Krita's "brushes" folder 
 
 (Located here on Windows: C:\Users\username\AppData\Roaming\krita\brushes)
+(Linux users can utilize the Makefile which was kindly made by tekakutli)
 
 Put the contents of "patterns" into Krita's "patterns" folder 
 
