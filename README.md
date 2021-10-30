@@ -57,10 +57,15 @@ If you wish, you can click “Overwrite Brush” to make these changes permanent
 Put the contents of "brush tips" into Krita's "brushes" folder 
 
 (Located here on Windows: C:\Users\username\AppData\Roaming\krita\brushes)
-(Linux users can utilize the Makefile which was kindly made by tekakutli)
 
 Put the contents of "patterns" into Krita's "patterns" folder 
 
 (Located here on Windows: C:\Users\username\AppData\Roaming\krita\patterns)
 
 Have in mind that a few of the brushes only works on Krita 5 (which is currently in alpha)
+
+Linux users can utilize the Makefile which was kindly made by tekakutli
+```
+cd rakurri-brush-set-for-krita
+make install
+```

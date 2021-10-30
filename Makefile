@@ -1,5 +1,14 @@
+
+SHELL := bash
+SHARE := ~/.local/share/krita/
+
 install:
-	cp patterns/* ~/.local/share/krita/patterns/
-	cp brush\ tips/* ~/.local/share/krita/brushes/
-	cp V2.0\ alpha\ brush\ presets/* ~/.local/share/krita/paintoppresets/
-	cp V2.0\ experimental\ WIP\ brush\ presets/* ~/.local/share/krita/paintoppresets/
+	mkdir -p $(SHARE)patterns
+	mkdir -p $(SHARE)brushes
+	mkdir -p $(SHARE)paintoppresets
+	ln patterns/* $(SHARE)patterns
+	ln brush\ tips/* $(SHARE)brushes
+	ln V2.0\ alpha\ brush\ presets/* $(SHARE)paintoppresets/
+	ln V2.0\ experimental\ WIP\ brush\ presets/* $(SHARE)paintoppresets/
+uninstall:
+	$(SHELL) uninstall.sh
