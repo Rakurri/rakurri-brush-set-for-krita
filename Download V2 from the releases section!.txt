@@ -1,0 +1,1 @@
+GitHub do not easily support files in master over 100mb, version 2 of the pack exceeds this amount. In the releases section to the right, you can download version 2 :)
