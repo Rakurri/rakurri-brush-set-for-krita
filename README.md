@@ -2,34 +2,32 @@
 
 ![Rakurri Brush Set Banner](https://i.imgur.com/SLbbOTK.png)
 
-**MAKE SURE TO INSTALL BOTH V1.0 AND V1.1! V1.1 IS JUST AN ADDON!**
+**MAKE SURE TO INSTALL V2 FROM THE RELEASES SECTION**
 
 Feel free to use the brushes in your own artworks! No need to credit me!
 I hope you'll enjoy the brush pack! :)
 
-**Here is a video preview of V1.0:** https://youtu.be/89qJ-1cTW7g
-
-**Here is a video preview of V1.1:** https://youtu.be/LjvIcK6fr0I
+**Here is a video preview of V2.0:** LINK COMING SOON
 
 ***
 
 # **How to download and install**
 
 **Gumroad:**
-1. Go to this website: https://gum.co/rakurribrushes1 
+1. Go to this website: LINK COMING SOON
 2. Click the "I want this!"-button!
 
 **GitHub:**
-1. Download "Rakurri_Brush_Set_V.1.0.bundle" and "Rakurri_Brush_Set_V1.1.bundle", the brush tips and patterns is not needed for the installation!
-Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/releases/tag/V1.1
+1. Download "Rakurri Brush Set V.2.0" from the "Releases" section on the right.
+Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/releases/tag/V2.0
 
 **Installation in Krita:**
 1. Go to “Settings”
-2. Press “Manage Resources”
-3. Press “Import Bundles”
-4. Select the. bundle file and open them!
-5. Move “Rakurri_Brushset_V1.0” and “Rakurri_Brushset_V1.1”  to Active Bundles! (And make sure Krita’s “Krita_4_Default_Resources” is also in the left pane!)
-6. Press “OK”!
+2. Press “Manage Resources Libraries...”
+3. Press “Import”
+4. Select the .bundle file
+5. Make sure "Rakurri Brush Set V2.0" shows up in the list and is highlighted with a white box around it, if it is not, click on it and press "Activate"
+6. Press “close” when you are done!
 
 ***
 
@@ -62,9 +60,8 @@ Put the contents of "patterns" into Krita's "patterns" folder
 
 (Located here on Windows: C:\Users\username\AppData\Roaming\krita\patterns)
 
-Have in mind that a few of the brushes only works on Krita 5 (which is currently in alpha)
-
 Linux users can utilize the Makefile which was kindly made by tekakutli
+
 ```
 cd rakurri-brush-set-for-krita
 make install
