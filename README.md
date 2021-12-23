@@ -14,7 +14,7 @@ I hope you'll enjoy the brush pack! :)
 # **How to download and install**
 
 **Gumroad:**
-1. Go to this website: LINK COMING SOON
+1. Go to this website: https://rakurri.gumroad.com/l/rakurribrushes2
 2. Click the "I want this!"-button!
 
 **GitHub:**
