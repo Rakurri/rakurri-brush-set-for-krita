@@ -7,7 +7,7 @@
 Feel free to use the brushes in your own artworks! No need to credit me!
 I hope you'll enjoy the brush pack! :)
 
-**Here is a video preview of V2.0:** LINK COMING SOON
+**Here is a video showcase of V2.0:** https://www.youtube.com/watch?v=Zu4qoIPRU5E
 
 ***
 
