@@ -13,8 +13,12 @@ I hope you'll enjoy the brush pack! :)
 
 # **How to download and install**
 
+**Ko-fi**
+1. Go to this site: https://ko-fi.com/s/8b17a544d5
+2. Click the "Get Now"-button! 
+
 **Gumroad:**
-1. Go to this website: https://rakurri.gumroad.com/l/rakurribrushes2
+1. Go to this site: https://rakurri.gumroad.com/l/rakurribrushes2
 2. Click the "I want this!"-button!
 
 **GitHub:**
