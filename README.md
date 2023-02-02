@@ -9,6 +9,8 @@ I hope you'll enjoy the brush pack! :)
 
 **Here is a video showcase of V2.0:** https://www.youtube.com/watch?v=Zu4qoIPRU5E
 
+**Here is a video showcase of V2.1:** https://www.youtube.com/watch?v=H5zDdqmYMXw
+
 ***
 
 # **How to download and install**
@@ -22,7 +24,7 @@ I hope you'll enjoy the brush pack! :)
 2. Click the "I want this!"-button!
 
 **GitHub:**
-1. Download "Rakurri Brush Set V.2.0" from the "Releases" section on the right.
+1. Download "Rakurri Brush Set V.2.1" from the "Releases" section on the right.
 Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/releases/tag/V2.0
 
 **Installation in Krita:**
@@ -48,7 +50,7 @@ If you wish, you can click “Overwrite Brush” to make these changes permanent
 
 ***
 
-# **How to download experimental and alpha brushes:**
+# **How to download experimental and alpha brushes: (OUTDATED)**
 
 **1.** Put the contents of "V2.0 alpha brush presets" and/or "V2.0 experimental WIP brush presets" into Krita's "paintoppresets" folder.
 
