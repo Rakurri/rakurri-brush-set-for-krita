@@ -25,7 +25,8 @@ I hope you'll enjoy the brush pack! :)
 
 **GitHub:**
 1. Download "Rakurri Brush Set V.2.1" from the "Releases" section on the right.
-Here is a handy link: https://github.com/Rakurri/rakurri-brush-set-for-krita/releases/tag/V2.0
+Here is a handy link:
+https://github.com/Rakurri/rakurri-brush-set-for-krita/releases/tag/V2.1
 
 **Installation in Krita:**
 1. Go to “Settings”
